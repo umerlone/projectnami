@@ -1,5 +1,6 @@
 Project Nami
 ===============
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 ###Version: `1.2.2`###
 
